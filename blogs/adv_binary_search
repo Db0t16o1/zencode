@@ -1,1 +1,4 @@
 https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+In the problem, a number of workers need to examine a number of filing cabinets. The cabinets are not all of the same size and we are told for each cabinet how many folders it contains.
+We are asked to find an assignment such that each worker gets a sequential series of cabinets to go through and that it minimizes the maximum amount of folders that a worker would have to look through.
+
